@@ -5,7 +5,7 @@ sidebar_position: 1
 
 <!-- ![](https://count.kjchmc.cn/get/@SnowyMC?theme=minecraft) -->
 
-## 欢迎使用 CMI ！
+## 🎉 欢迎使用 CMI ！
 
 :::info
 
@@ -17,7 +17,7 @@ CMI 是一款 **付费插件** ，你可以在 SpigotMC 上进行购买
 
 :::
 
-### 安装 CMI 至服务端内
+### 🛠️ 安装 CMI 至服务端内
 
 1. 在 SpigotMC 上购买 CMI 插件
 2. 下载 **[CMI](https://www.spigotmc.org/resources/cmi-300-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/)** 与 **[CMILib](https://www.spigotmc.org/resources/cmilib.87610/)**
@@ -36,16 +36,15 @@ CMI 是一款 **付费插件** ，你可以在 SpigotMC 上进行购买
 
 :::
 
-## 初步设置
+### ⚙️ 初步设置
 
 当插件加载完成，并且保证服务端已正常运行后，在 `/plugins` 文件夹内会出现额外的 `CMI` 与 `CMILib` 配置文件夹
-进行下述的初步设置可以让你的 **CMI** 变得更加好用
 
-### 进行 CMILib 基础设置
+#### 🔧 进行 CMILib 基础设置
 
 打开 `/plugins/CMILib/config.yml` 配置文件进行基本配置
 
-下方为汉化后的默认配置文件  `请不要直接替换`
+下方为汉化后的默认配置文件
 
 ```yaml
 # 使用的语言文件
@@ -109,7 +108,7 @@ Colors:
 
 其余项目请根据需求进行修改
 
-### 了解 CMI 配置文件基本结构
+#### 了解 CMI 配置文件基本结构
 
 ```
 /CMI
@@ -153,9 +152,3 @@ Colors:
 │   ├── DeathMessages
 │       ├── Locale_EN.yml - 死亡消息
 ```
-
-- 推荐修改项：
-    - `config.yml/Economy.Enable: true`  启用 CMI 经济
-    - `config.yml/Economy.Confirmation: true`  启用转账确认
-    - `config.yml/Economy.LogEnabled: true`  启用金币变化日志
-    - `config.yml/Language: CN`  设置语言为中文
