@@ -65,9 +65,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'docs/cmi/intro',
             position: 'left',
-            label: 'SnowyMC',
+            label: 'CMI',
+          },
+          {
+            type: 'doc',
+            docId: 'docs/Collector/intro',
+            position: 'left',
+            label: 'Snow-Collector',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
