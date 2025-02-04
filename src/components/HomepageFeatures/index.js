@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '更新迅速',
+    Svg: require('@site/static/img/furnace.svg').default,
     description: (
       <>
         E......我猜你不会看这个..?
@@ -13,6 +14,7 @@ const FeatureList = [
   },
   {
     title: '简单易懂',
+    Svg: require('@site/static/img/grass.svg').default,
     description: (
       <>
         其实我也不知道这个是什么
@@ -21,6 +23,7 @@ const FeatureList = [
   },
   {
     title: '超级省钱',
+    Svg: require('@site/static/img/crafting-table.svg').default,
     description: (
       <>
         由 Vercel 提供计算服务，因为没钱所以用免费的
