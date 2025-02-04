@@ -65,13 +65,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'docs/cmi/intro',
+            docId: 'cmi/intro',
             position: 'left',
             label: 'CMI',
           },
           {
             type: 'doc',
-            docId: 'docs/Collector/intro',
+            docId: 'Collector/intro',
             position: 'left',
             label: 'Snow-Collector',
           },
