@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## 欢迎使用 CMI ！
 
-:::note
+:::info
 
 CMI 是一款 **付费插件** ，你可以在 SpigotMC 上进行购买
 

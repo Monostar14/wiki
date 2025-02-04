@@ -77,8 +77,8 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://qm.qq.com/q/fpNjRd3Wpi',
-            label: 'QQ群',
+            href: 'https://github.com/SnowCherryServer/pl-wiki',
+            label: 'Github',
             position: 'right',
           },
         ],
