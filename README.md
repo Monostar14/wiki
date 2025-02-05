@@ -1,0 +1,2 @@
+# SnowyMC Plugin Wiki
+
